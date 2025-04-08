@@ -1,0 +1,23 @@
+input[type=text]{
+		background-color:lightblue;
+		width:15%;
+		//box-sizing:border-box;
+		color:red;
+		
+}
+
+input[type=password]{
+		background-color:lightgreen;
+		width:15%;
+		color:blue;
+}
+input[type=submit]{
+		background-color:yellow;
+		width:10%;
+
+}
+input[type=cancel]{
+		background-color:red;
+		width:10%;
+
+}

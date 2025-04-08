@@ -1,0 +1,17 @@
+let a=10;
+let b=20;
+console.log(a+b)
+console.log(a-b)
+console.log(a*b)
+console.log(a/b)
+console.log(a++)
+console.log(a)
+console.log(++a)
+console.log(b--)
+console.log(--b)
+console.log(a>b)
+console.log(a<b)
+console.log(2==2)
+console.log(2=='2')
+console.log(2===2)
+console.log(2==='2')

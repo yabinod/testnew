@@ -1,0 +1,16 @@
+a=10;
+var b=200;
+let c="Testing";
+const Total=1001;
+console.log("ergerger");
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(Total);
+console.log("******************");
+a=20;
+b=500;
+c="Testing all";
+console.log(a);
+console.log(b);
+console.log(c);
